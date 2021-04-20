@@ -5,8 +5,6 @@ Attack = 0
 Defence = 0
 Speed = 0
 Health = 20
-Knives = 10
-Arrows = 10
 inv = "a torch"
 
 print("Il était une fois dans un passé lointain et fantastique, une bataille se déroulait entre deux grands royaumes ou nul des deux ne remporta la victoire. C’est alors que votre aventure commence !")
